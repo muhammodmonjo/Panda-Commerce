@@ -43,3 +43,22 @@
 .cat3{
     background: linear-gradient(to right, blue 0%, #0085ff 100%);
 }
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: #fff;
+    border-top: none;
+}
+
+#contact{
+    height: 300px;
+}
+#contact h6{
+    color: gray;
+}
+#contact input{
+    margin-bottom: 10px;
+}
